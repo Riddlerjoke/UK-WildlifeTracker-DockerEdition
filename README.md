@@ -11,7 +11,7 @@ Ce projet est une application Web qui permet de visualiser et d'explorer des don
 ##1. Clonez ce référentiel sur votre machine locale :
 
 ```bash
-git clone https://github.com/VotreNomDeCompteGitHub/projet-mammals.git
+git clone https://github.com/Riddlerjoke/UK-WildlifeTracker-DockerEdition
 ```
 
 #Accédez au répertoire du projet :
