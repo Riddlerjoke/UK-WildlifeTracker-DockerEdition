@@ -8,9 +8,19 @@ Ce projet est une application Web qui permet de visualiser et d'explorer des don
 
 #Avant de commencer, assurez-vous d'avoir effectué les étapes suivantes :
 
-##1. Clonez ce référentiel sur votre machine locale :
+création du ficher ' .env' contenant les informations suivantes :
+```
+#.env  
+MONGO_INITDB_ROOT_USERNAME=root
+MONGO_INITDB_ROOT_PASSWORD=example
+MONGO_INITDB_DATABASE=webapi
+DATABASE_URI=mongodb://root:example@mongo:27017/webapi?authSource=admin
 
-```bash
+
+```
+1. Clonez ce référentiel sur votre machine locale :
+
+```
 git clone https://github.com/Riddlerjoke/UK-WildlifeTracker-DockerEdition
 ```
 
